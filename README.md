@@ -1,6 +1,7 @@
-# Finding Donors for CharityML - Adaboost Model
+# Finding-Donors-for-a-Charity-Adaboost-Model
 
-This project is based on the Finding Donors for CharityML project of the Introduction to Machine Learning with PyTorch nanodegree on Udacity
+This project is based on the Finding Donors for CharityML project of the Introduction to Machine Learning with PyTorch nanodegree on Udacity.
+The final model had an accuracy of 86.63% and F-score of 0.7425 on the test data.
 
 <h3> Introduction: </h3>
 
